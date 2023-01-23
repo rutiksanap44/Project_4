@@ -1,0 +1,24 @@
+body{
+    background-color: azure;
+}
+    header{
+    text-align: center;
+    font-weight: bolder;
+}
+#first_heading{
+    font-size: 50px;
+}
+#second_heading{
+    font-size: 35px;
+}
+img{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.caption, footer{
+    font-size: 20px;
+    margin-top: 10px;
+}
